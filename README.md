@@ -1,7 +1,6 @@
 # Bayes' Theorem and Naive Bayes Classifiers
 ---
 ### Overview :-
-
 This project explores **Bayes Theorem** and its application in **Naive Bayes Machine Learning algorithms** for text classification, 
 specifically focused on sentiment analysis using the **IMDb Movie Reviews Dataset**.
 
