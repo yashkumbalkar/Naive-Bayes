@@ -6,7 +6,6 @@ This project explores **Bayes Theorem** and its application in **Naive Bayes Mac
 specifically focused on sentiment analysis using the **IMDb Movie Reviews Dataset**.
 
 ---
-
 ## Objective :-
 
 To understand and apply different types of **Naive Bayes classifiers** to perform sentiment analysis (positive/negative) 
