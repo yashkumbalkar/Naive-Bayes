@@ -31,7 +31,7 @@ The dataset used for this project is sourced from Kaggle:- [IMDB Dataset](https:
 
 
 ---
-### Conclusion :-
+### **Conclusion** :-
 
 Naive Bayes classifiers, despite their simplicity, remain effective for many text classification problems. This project serves 
 as a reminder that sometimes simple models with good assumptions can outperform more complex ones.
